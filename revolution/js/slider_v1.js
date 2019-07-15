@@ -51,30 +51,7 @@ tpj(document).ready(function() {
                         v_offset: 0
                     }
                 },
-
-                bullets: {
- 
-                    enable: true,
-                    style: 'uranus',
-                    tmp: '<span class="tp-bullet-inner"></span>',
-                    direction: 'horizontal',
-                    rtl: false,
-             
-                    container: 'slider',
-                    h_align: 'center',
-                    v_align: 'bottom',
-                    h_offset: 0,
-                    v_offset: 20,
-                    space: 5,
-             
-                    hide_onleave: false,
-                    hide_onmobile: false,
-                    hide_under: 0,
-                    hide_over: 9999,
-                    hide_delay: 200,
-                    hide_delay_mobile: 1200
-             
-                }                         
+                        
             },
             viewPort: {
                 enable:true,
