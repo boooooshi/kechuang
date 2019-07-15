@@ -519,7 +519,7 @@
 }
 
 .iconbox .box-header .icon-rounded:before {
-    content: "\f127";
+    content: url("../images/zizhi.png");
     font-family: "Ionicons";
     position: absolute;
     text-align: center;
@@ -534,15 +534,15 @@
 }
 
 .iconbox .box-header .icon-rounded.line-chart:before {
-    content: "\f262";
+    content: url("../images/business.png");
 }
 
 .iconbox .box-header .icon-rounded.clock:before {
-    content: "\f35a";
+    content: url("../images/guimo.png");
 }
 
 .iconbox .box-header .icon-rounded.magic:before {
-    content: "\f358";
+    content: url("../images/jiaoyi.png");
 }
 
 .iconbox .box-header .icon-rounded.artboard:before {
@@ -714,10 +714,6 @@
     opacity: 1;
     visibility: visible;
     top: 40%;
-}
-
-.iconbox-slider .slides .item a:hover {
-    text-decoration: underline;
 }
 
 .iconbox-slider .slides .item .title-post a {
