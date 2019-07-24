@@ -580,19 +580,6 @@
         activePattern();
     }
 
-    var removePreloader = function() { 
-        $(window).load(function() { 
-
-            $('.preloader').css('opacity', 0);
-            setTimeout(function() {
-                $('.preloader').hide(); }, 1000           
-            ); 
-        }); 
-         
-    };
-
-    
-
    	// Dom Ready
 	$(function() { 
         if ( matchMedia( 'only screen and (min-width: 991px)' ).matches ) {          
@@ -617,7 +604,6 @@
         flatAccordion();
         goTop();
         topSearch();        
-        removePreloader();
 
    	});
 

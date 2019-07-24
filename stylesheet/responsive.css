@@ -181,13 +181,6 @@
 		text-align: center;
 	}
 
-	.flat-callback-form {
-	    padding-left: 0;
-	}
-
-	.flat-callback-form .flat-field {
-	    padding-right: 0;
-	}
 
 	#form-email-footer {
 	    width: 100%;
@@ -379,21 +372,10 @@
 		margin: 0 5px;
 	}
 
-	.flat-callback-form .flat-field .field-one-half,
-	article.post.s1,
-	article.post.s1 .featured-post img,
-	article.post.style2 .featured-post img,
-	article.post.style4 .featured-post img {
-		width: 100%;
-	}
-
 	article.post.style2 {
 		margin-bottom: 40px;
 	}
 
-	.flat-callback-form .flat-field .field-one-half select {
-		margin-bottom: 0;
-	}
 
 	.footer-widgets .widget.widget_nav_menu {
 		padding-left: 0;
@@ -484,10 +466,6 @@
 
 	.flat-infomation li.phone {
 		border-right: none;
-	}
-
-	.flat-callback-form .flat-field {
-	    padding-right: 0;
 	}
 
 	.imagebox.style1 .imagebox-content .imagebox-button a{

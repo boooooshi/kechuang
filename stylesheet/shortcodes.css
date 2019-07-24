@@ -519,7 +519,7 @@
 }
 
 .iconbox .box-header .icon-rounded:before {
-    content: url("../images/zizhi.png");
+    content: url("../images/zizhi.jpg");
     font-family: "Ionicons";
     position: absolute;
     text-align: center;
@@ -534,15 +534,15 @@
 }
 
 .iconbox .box-header .icon-rounded.line-chart:before {
-    content: url("../images/business.png");
+    content: url("../images/business.jpg");
 }
 
 .iconbox .box-header .icon-rounded.clock:before {
-    content: url("../images/guimo.png");
+    content: url("../images/guimo.jpg");
 }
 
 .iconbox .box-header .icon-rounded.magic:before {
-    content: url("../images/jiaoyi.png");
+    content: url("../images/jiaoyi.jpg");
 }
 
 .iconbox .box-header .icon-rounded.artboard:before {
